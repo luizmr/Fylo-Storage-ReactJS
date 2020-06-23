@@ -4,7 +4,7 @@
 
 ## 💻 About project
 
-♻️ Challenge from Frontendmentor. Build the FyloStorage web page with responsive design using ReactJS library.
+Challenge from Frontendmentor. Build the FyloStorage web page with responsive design using ReactJS library.
 
 ## 🎨 Layout
 
